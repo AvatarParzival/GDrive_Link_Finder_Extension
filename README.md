@@ -24,7 +24,7 @@ A lightweight and easy-to-use Chrome Extension that scans any webpage for Google
 # 🔧 Installation
 
 1. Clone or download this repository
-2. Open Chrome and go to chrome://extensions/
+2. Open Chrome and go to chrome://extensions/ (Or Browsers in Which Chrome Extensions are Supported)
 3. Enable Developer Mode (top right)
 4. Click Load Unpacked
 5. Select the GDrive_Link_Finder_Extension folder
