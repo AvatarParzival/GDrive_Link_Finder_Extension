@@ -1,6 +1,15 @@
 # 🔍 GDrive Link Finder Extension
 
-A lightweight and easy-to-use Chrome Extension that scans any webpage for Google Drive links (files and folders) and displays them in a neat list for quick access or download.
+# 🧩 About This Extension
+GDrive Link Finder is a lightweight and easy-to-use Chrome Extension that scans any webpage for Google Drive links (files and folders) and displays them in a clean, accessible list for quick viewing or download.
+
+Built with:
+
+⚙️ Vanilla JavaScript – for smooth and efficient DOM parsing and logic
+
+🎨 HTML/CSS – for a simple yet responsive popup interface
+
+🧾 Chrome Extension Manifest V3 – for modern, secure extension structure and script injection
 
 ----
 
