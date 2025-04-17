@@ -2,7 +2,7 @@
 
 A lightweight and easy-to-use Chrome Extension that scans any webpage for Google Drive links (files and folders) and displays them in a neat list for quick access or download.
 
----
+----
 
 # 🚀 Features
 
